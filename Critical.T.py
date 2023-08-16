@@ -1,5 +1,5 @@
 # Critical.T.py:
-from numpy import zeros
+from numpy import zeros 
 import matplotlib.pyplot as plt
 
 tot=round(365*15) # total time (tot has to be more than 2*T)
